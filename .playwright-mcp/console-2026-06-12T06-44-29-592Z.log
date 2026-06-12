@@ -3,3 +3,6 @@
 [   21343ms] [LOG] JQMIGRATE: Migrate is installed, version 3.4.1 @ https://liwavillage.ae/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1:1
 [   22541ms] [ERROR] Mixed Content: The page at 'https://liwavillage.ae/en/' was loaded over HTTPS, but requested an insecure XMLHttpRequest endpoint 'http://hubcollection.liquid-themes.com/wp-content/uploads/2022/09/103015-gradient-header-1.json'. This request has been blocked; the content must be served over HTTPS. @ https://liwavillage.ae/wp-content/themes/hub/assets/vendors/lottie/lottie.min.js?ver=5.9.6:0
 [   22650ms] [ERROR] Error: <stop> attribute offset: Expected number or percentage, "NaN%". @ https://liwavillage.ae/wp-content/themes/hub/assets/js/animated-blob/liquidAnimatedBlob.min.js:0
+[ 4444533ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://tr6.snapchat.com/p:0
+[ 4606303ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://tr6.snapchat.com/p:0
+[ 4631536ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://tr6.snapchat.com/p:0
