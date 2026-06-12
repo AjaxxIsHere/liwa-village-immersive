@@ -1,0 +1,79 @@
+[     186ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[     209ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  123807ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  123839ms] [LOG] [Fast Refresh] done in 37ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  123927ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/videos/s.webm:0
+[  128514ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  128570ms] [LOG] [Fast Refresh] done in 26ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  128585ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/videos/Liwa-Vill.webm:0
+[  135167ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  135222ms] [LOG] [Fast Refresh] done in 29ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  135249ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/public/videos/Liwa-Village-Recap-v2_1.webm:0
+[  138150ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  138565ms] [ERROR] ./app/components/Hero.tsx:40:15
+Expression expected
+  38 |           muted
+  39 |           preload="auto"
+> 40 |           src=/videos/Liwa-Village-Recap-v2_1.webm"
+     |               ^
+  41 |         />
+  42 |       )}
+  43 |       {/* Fallback while client hasn't hydrated */}
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[  138566ms] [ERROR] ./app/components/Hero.tsx:40:51
+Unterminated string constant
+  38 |           muted
+  39 |           preload="auto"
+> 40 |           src=/videos/Liwa-Village-Recap-v2_1.webm"
+     |                                                   ^
+  41 |         />
+  42 |       )}
+  43 |       {/* Fallback while client hasn't hydrated */}
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[  138747ms] [ERROR] ./app/components/Hero.tsx:40:15
+Expression expected
+  38 |           muted
+  39 |           preload="auto"
+> 40 |           src=/videos/Liwa-Village-Recap-v2_1.webm"
+     |               ^
+  41 |         />
+  42 |       )}
+  43 |       {/* Fallback while client hasn't hydrated */}
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[  138748ms] [ERROR] ./app/components/Hero.tsx:40:51
+Unterminated string constant
+  38 |           muted
+  39 |           preload="auto"
+> 40 |           src=/videos/Liwa-Village-Recap-v2_1.webm"
+     |                                                   ^
+  41 |         />
+  42 |       )}
+  43 |       {/* Fallback while client hasn't hydrated */}
+
+Parsing ecmascript source code failed
+
+Import trace:
+  Server Component:
+    ./app/components/Hero.tsx
+    ./app/page.tsx @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[  138815ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  139159ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  139202ms] [LOG] [Fast Refresh] done in 44ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477

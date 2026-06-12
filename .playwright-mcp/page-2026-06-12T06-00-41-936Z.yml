@@ -1,0 +1,19 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e6]:
+        - paragraph [ref=e7]: The city fades.
+        - heading "The Desert Begins." [level=1] [ref=e8]:
+          - text: The Desert
+          - text: Begins.
+      - generic:
+        - generic: LIWA VILLAGE
+        - button "Reserve a Moment" [ref=e10]
+        - button "Unmute audio" [ref=e12]:
+          - generic [ref=e13]: "[ Sound Off ]"
+        - generic:
+          - generic: Scroll
+        - generic: 23.1181° N, 53.7611° E
+  - button "Open Next.js Dev Tools" [ref=e23] [cursor=pointer]:
+    - img [ref=e24]
+  - alert [ref=e27]
